@@ -2,6 +2,8 @@
 
 This is a project I made to practice my cv2 skills. To be able to get this final product I had to undrstand and modify the images.
 
+![img not found](Imagenes/Result.png?raw=true)
+
 ## Functionalities
 
 This application, as the title says, looks for the biggest contour (zone with diferent color) and crip the image to focus it
